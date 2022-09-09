@@ -1,8 +1,8 @@
 #### Authors:
-- Abdallah Mohammed
+- Abdallah Mohammed (https://github.com/abdallah388687)
 - Emad Abdalghaffar
-- Lauren Safwat
-- Yasser Ashraf
+- Lauren Safwat (https://github.com/lauren-safwat)
+- Yasser Ashraf (https://github.com/YasserAshraf12)
 
 #### 2022 _ Information Technology Institute (ITI) _ AI-Pro Program
 ______________________________________________
