@@ -25,7 +25,7 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 #### Models
 6 models have been investigated in this classification project:
-- FFNN
+- FFNN Model with BoW (TF-IDF) Text Representation
 - RNN
 - LSTM
 - Bidirectional LSTM
